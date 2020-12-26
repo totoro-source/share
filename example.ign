@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.2.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDHiM/fSP/ynrk/WkIwfSC+uVSARsuW+NtxFHhVuDJJVUMF1AUMJiChY9eNxoyoSsqVQiF6cwAU+d9avb4m7O6uaVCVy2ojPnaB7WP/Xa/LWYqU04K9Qh5VPGrX+Flj6v91+RrfJa6X9+diKF8Tz4xBZnzZVezTs2kq3HIJ2yGwCG7R9v8sBpdZUCuttdBxhe2bl0s9oKlKLuLU/wci7rcV2ZRXt4UH9dtYxPPGDrtOBUPCX2NDAnohimB6vvOVQ9VSUuAs+HKrGAAyNzyCl6l/e5ZxzClQufWF7/k44l1XTrnIVA7C4BwH3HHkpP9zOTJD5UtNCtMq26cK6Ao+vQiMlMYnHf3FgMLkfVVUk/FQiN7/VLxDS3ikpRDJjfqZxinJV/5EoX7PMnc7JxxGdqrSkOj6EYgYmao2+qfoHNfQyQMNW91wsXV7CUXbOwQgtdDt/nebIXK7/de8Dx+TVTCmq2uJbiCYizEtROyrnuIhS6H4uU00Thij/2Svk4alrZs= truetimor@hp1.localdomain"
+        ]
+      }
+    ]
+  }
+}
